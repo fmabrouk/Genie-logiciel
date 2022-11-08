@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  8 NOV 2022 18:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  8 NOV 2022 19:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Notes_cours_14_10.tex
-(Notes_cours_14_10.tex
+**./Notes_cours_21_10_P2.tex
+(Notes_cours_21_10_P2.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28>
 (C:\Users\fayez\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -827,7 +827,7 @@ z/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
-2.
+1.
 
 (C:\Users\fayez\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -837,40 +837,40 @@ tex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count335
 \l__pdf_internal_box=\box112
-) (Notes_cours_14_10.aux)
-\openout1 = `Notes_cours_14_10.aux'.
+) (Notes_cours_21_10_P2.aux)
+\openout1 = `Notes_cours_21_10_P2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Info: Redefining \degres on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Info: Redefining \degres on input line 21.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 22.
+(french.ldf)             reported on input line 21.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 22.
-LaTeX Info: Redefining \up on input line 22.
+(french.ldf)             reported on input line 21.
+LaTeX Info: Redefining \up on input line 21.
 
 
 Package french.ldf Warning: OT1 encoding should not be used for French.
 (french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(french.ldf)                of your document; reported on input line 22.
+(french.ldf)                of your document; reported on input line 21.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -906,10 +906,10 @@ Package french.ldf Warning: OT1 encoding should not be used for French.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 22.
-(Notes_cours_14_10.out) (Notes_cours_14_10.out)
+Package hyperref Info: Link coloring OFF on input line 21.
+(Notes_cours_21_10_P2.out) (Notes_cours_21_10_P2.out)
 \@outlinefile=\write4
-\openout4 = `Notes_cours_14_10.out'.
+\openout4 = `Notes_cours_21_10_P2.out'.
 
 \c@lstlisting=\count336
 
@@ -939,35 +939,35 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-4.
+3.
  (C:\Users\fayez\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-24.
+23.
 
 (C:\Users\fayez\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-24.
+23.
 
 (C:\Users\fayez\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 24.
+(Font)              <14.4> on input line 23.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 24.
+(Font)              <10> on input line 23.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 24.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+(Font)              <7> on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
 
 
 (C:\Users\fayez\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
 
 
 (C:\Users\fayez\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -978,28 +978,85 @@ LaTeX Warning: No \author given.
 
 [1
 
-{C:/Users/fayez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-[3] [4] (Notes_cours_14_10.aux)
-Package rerunfilecheck Info: File `Notes_cours_14_10.out' has not changed.
-(rerunfilecheck)             Checksum: 5041E0285DB50C019DB613C78E11DD6F;1096.
+{C:/Users/fayez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<Capture3.PNG, id=40, 169.00641pt x 237.88875pt>
+File: Capture3.PNG Graphic file (type png)
+<use Capture3.PNG>
+Package pdftex.def Info: Capture3.PNG  used on input line 51.
+(pdftex.def)             Requested size: 126.75449pt x 178.4161pt.
+ [2 <./Capture3.PNG>]
+<Capture4.PNG, id=47, 277.4114pt x 210.03468pt>
+File: Capture4.PNG Graphic file (type png)
+<use Capture4.PNG>
+Package pdftex.def Info: Capture4.PNG  used on input line 68.
+(pdftex.def)             Requested size: 208.05803pt x 157.52562pt.
+<Capture5.PNG, id=48, 448.29985pt x 203.25937pt>
+File: Capture5.PNG Graphic file (type png)
+<use Capture5.PNG>
+Package pdftex.def Info: Capture5.PNG  used on input line 81.
+(pdftex.def)             Requested size: 336.22406pt x 152.44414pt.
+
+Overfull \hbox (8.52017pt too wide) in paragraph at lines 92--98
+[]\OT1/lmr/m/n/12 Lorsqu'un mes-sage est en-voy^^Se alors que le pr^^Sec^^Seden
+t n'est n'est pas ter-min^^Se : sous num^^Serotation. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--107
+
+ []
+
+[3 <./Capture4.PNG> <./Capture5.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+
+ []
+
+<Capture7.PNG, id=55, 649.30078pt x 352.31625pt>
+File: Capture7.PNG Graphic file (type png)
+<use Capture7.PNG>
+Package pdftex.def Info: Capture7.PNG  used on input line 115.
+(pdftex.def)             Requested size: 486.9744pt x 264.23653pt.
+[4 <./Capture7.PNG>] (Notes_cours_21_10_P2.aux)
+Package rerunfilecheck Info: File `Notes_cours_21_10_P2.out' has not changed.
+(rerunfilecheck)             Checksum: 12011E078B1728729DFE8FA5F07DCFA4;993.
  ) 
 Here is how much of TeX's memory you used:
- 24138 strings out of 475385
- 446273 string characters out of 2776907
- 784304 words of memory out of 3000000
- 45103 multiletter control sequences out of 15000+600000
- 513867 words of font info for 55 fonts, out of 8000000 for 9000
+ 24159 strings out of 475385
+ 446681 string characters out of 2776907
+ 780324 words of memory out of 3000000
+ 45120 multiletter control sequences out of 15000+600000
+ 510921 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,6n,104p,400b,694s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 100i,8n,104p,403b,570s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C
 :/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C
 :/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:
 /Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/
 Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/U
 sers/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
-Output written on Notes_cours_14_10.pdf (4 pages, 139774 bytes).
+Output written on Notes_cours_21_10_P2.pdf (4 pages, 326003 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 69 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 88 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
