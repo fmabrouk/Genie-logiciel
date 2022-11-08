@@ -1,0 +1,136 @@
+\documentclass[12pt]{article}
+%\usepackage{tkiz}
+
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{amsmath,amsthm,amsfonts,amssymb}
+\usepackage{lmodern}
+\usepackage[top=2.4cm,bottom=2.4cm,left=2cm,right=2cm]{geometry}
+\usepackage{hyperref}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{tikz}
+
+%\date{}
+\title{{\bf  Génie logiciel} \\
+	Notes du cours de 14/10 , partie 1 \\
+	{\small L3 Informatique appliquée 2022-2023} \\
+	{\it \small MABROUK Fayez}}
+
+\begin{document}
+	\maketitle
+	\newpage
+	\section{Initiation à UML}
+	\subsection{Introduction à UML}
+	\begin{itemize}
+		\item [*] Langage de modélisation graphique.
+		\item [*] Objectifs :
+		\begin{itemize}
+			\item [*] Fournir une description d'un logiciel.
+			\item [*] Permettre la visualisation des différents aspects d'un logiciel.
+			\item [*] Analyse du logiciel.
+			\item [*] Permettre la communication à l'intérieur et à l'extérieur d'un projet, avec des personnes techniques et non techniques.
+			\item [*] Vérification de l'exhaustivité, de la cohérence et de l'exactitude.
+				\end{itemize}
+	\item [*] Langage de modélisation à usage général.
+		\begin{itemize}
+			\item [*] Indépendant du processus.
+			\item [*] Peut être utilisé pour représenter des informations sur \textbf{la structure}, \textbf{le comportement} ou \textbf{l'interaction}.
+	
+		\end{itemize}
+	\end{itemize}
+\subsection{Vues}
+\begin{itemize}
+	\item [*] Un modèle est composé de plusieurs vues.
+	\item [*] Une vue décrit un système sous différents angles.
+	\item [*] Exemple de vues :
+	\begin{itemize}
+		\item [*]  Vue structurelle : donne des informations sur la structure du modèle.
+		\item [*] Vue comportementale : donne des informations sur le comportement du modèle.
+		\item [*] Vue interactionnelle : donne des informations sur la manière dont les différentes parties du modèle se comportent \textbf{les unes par rapport aux autres}.
+		
+	\end{itemize}
+\end{itemize}
+\subsection{Types de diagrammes}
+\begin{itemize}
+	\item [*] UML définit 13 diagrammes en 3 catégories qui permettent de définir un système selon
+	selon différents points de vue.
+	\item [*] Diagrammes de structure:
+	\begin{itemize}
+		\item[*] Diagramme de classes, diagramme d'objets, diagramme de composants, diagramme de structure composite,
+		Diagramme de paquetage et Diagramme de déploiement
+	\end{itemize}
+\item [*] Diagrammes de comportement:
+\begin{itemize}
+	\item[*] \textcolor{red}{Diagramme de cas d'utilisation} ,Diagramme d'activité et diagramme de machine à états
+\end{itemize}
+\item [*] Diagrammes d'interaction:
+\begin{itemize}
+	\item [*] Diagramme de séquence, diagramme de communication, diagramme de synchronisation et aperçu des interactions
+	Diagramme.
+\end{itemize}
+\end{itemize}
+\subsection{Rappels sur l'approche par objet}
+\begin{itemize}
+	\item[*] UML est basé sur une approche par objet.
+	\item[*]  Définition d'un \textbf{objet} : Un objet est une entité référencée par un identifiant. Il est
+	souvent tangible.
+	\item[*] Un objet possède un ensemble d'attributs (structure) et de méthodes (comportement).
+	\item [*] Définition d'une \textbf{classe}  : ensemble d'objets similaires (c'est-à-dire ayant les mêmes attributs et
+	les mêmes méthodes).
+	\item [*] Un objet d'une classe est une instance de cette classe.
+	\item [*] Définition de l'\textbf{abstraction} : principe de sélection des propriétés pertinentes d'un objet pour un problème donné.
+	\item [*] Aspect important d'UML : l'objet réel est simplifié par son abstraction pour ne garder que ce qui est pertinent pour le modèle.
+	\item [*] Définition de l'\textbf{encapsulation} : cacher certains attributs ou méthodes à d'autres objets.\\
+	Notez qu'il s'agit d'une abstraction.
+	\item [*]  \textbf{Spécialisation} : une nouvelle classe A peut être créée comme sous-classe d'une autre classe B,
+	dans ce cas, la classe A spécialise la classe B.
+	\item [*] La \textbf{généralisation} est l'inverse (la superclasse B est une généralisation de la sous-classe A).
+	\item [*] \textbf{Héritage} : le fait qu'une sous-classe obtienne le comportement et la structure de la super-classe.
+	\item [*] C'est une \textbf{conséquence} de la spécialisation.
+	\item[*]  Classes \textbf{abstraites} et \textbf{concrètes} : les classes abstraites sont des classes qui n'ont pas de
+	d'instances (par exemple, Mammal). Les classes concrètes en ont (par exemple, Human).
+	\item [*] Les classes \textbf{abstraites} permettent de hiérarchiser les classes et de regrouper les attributs et les méthodes.
+	méthodes. Elles doivent avoir des sous-classes.
+	\item [*] \textbf{Polymorphisme} : le comportement des objets d'une même classe (en général abstraite) peut être différent car il s'agit d'instances de classes différentes.
+	être différent car ils sont des instances de différentes sous-classes.
+	\item [*] \textbf{Composition} : les objets complexes peuvent être composés d'autres objets.
+	\item [*]  Elle est définie au niveau de la classe, mais nous ne composons que des instances réelles.
+	\item [*]  Elle peut être :
+	\begin{itemize}
+		\item[*] une relation forte : les composants ne peuvent pas être partagés ; la destruction de l'objet composé
+		implique la destruction des composants.
+		\item [*] une relation faible (aussi appelée agrégation) : les composants peuvent être partagés.
+	\end{itemize}
+	\subsection{Qu'est-ce qu'un modèle logiciel ?}
+	\begin{itemize}
+		\item [*] Formalisé sous forme de document.
+		\item [*] Pas seulement des diagrammes !
+		\newpage
+		\item [*] Le document doit indiquer :
+		\begin{itemize}
+			\item [1.] Les informations pratiques (auteurs, date, version).
+			\item [2.] Le contexte du projet.
+			\item [3.] Introduction au modèle (choix, quelles vues, discussion).
+			\item [4.] Les diagrammes, centrés sur les cas d'utilisation. 
+		\end{itemize}
+	\end{itemize}
+\end{itemize}
+\subsection{Conclusion}
+\begin{itemize}
+	\item [*] UML permet de modéliser les logiciels.
+	\item [*] UML est un standard:
+	\begin{itemize}
+		\item [*] Des gens y ont pensé.
+		\item [*] Permet une bonne communication.
+		\item  [*] Communauté forte.
+		\item [*] Evolution.
+		\item [*] Ne disparaîtra pas demain.
+		
+	\end{itemize}
+\item [*]  UML est difficile à maîtriser (et nous ne le maîtriserons pas dans ce cours).
+\end{itemize}
+	
+\end{document}
