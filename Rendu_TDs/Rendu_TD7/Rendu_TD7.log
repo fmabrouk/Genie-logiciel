@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  9 NOV 2022 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  9 NOV 2022 18:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -992,27 +992,39 @@ File: capture2_S.png Graphic file (type png)
 <use capture2_S.png>
 Package pdftex.def Info: capture2_S.png  used on input line 50.
 (pdftex.def)             Requested size: 440.39424pt x 250.68594pt.
- [3 <./capture2_S.png>] (Rendu_TD7.aux)
+<capture3_1.png, id=27, 532.99126pt x 316.18124pt>
+File: capture3_1.png Graphic file (type png)
+<use capture3_1.png>
+Package pdftex.def Info: capture3_1.png  used on input line 59.
+(pdftex.def)             Requested size: 399.74246pt x 237.13535pt.
+ [3 <./capture2_S.png> <./capture3_1.png>]
+<capture_4_1.png, id=34, 542.025pt x 514.92375pt>
+File: capture_4_1.png Graphic file (type png)
+<use capture_4_1.png>
+Package pdftex.def Info: capture_4_1.png  used on input line 67.
+(pdftex.def)             Requested size: 406.51775pt x 386.19186pt.
+ [4 <./capture_4_1.png>]
+(Rendu_TD7.aux)
 Package rerunfilecheck Info: File `Rendu_TD7.out' has not changed.
 (rerunfilecheck)             Checksum: 87EE07A2EBB39A74D7108A4C2FB9B48F;213.
  ) 
 Here is how much of TeX's memory you used:
- 24165 strings out of 475385
- 446978 string characters out of 2776907
+ 24180 strings out of 475385
+ 447249 string characters out of 2776907
  776238 words of memory out of 3000000
- 45130 multiletter control sequences out of 15000+600000
+ 45142 multiletter control sequences out of 15000+600000
  508350 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,8n,104p,414b,651s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 100i,8n,104p,414b,656s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{
 C:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/U
 sers/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/U
 sers/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Us
 ers/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Use
 rs/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
-Output written on Rendu_TD7.pdf (3 pages, 154041 bytes).
+Output written on Rendu_TD7.pdf (4 pages, 203536 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 64 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
