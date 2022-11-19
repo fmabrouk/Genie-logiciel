@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  19 NOV 2022 16:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  19 NOV 2022 17:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -979,27 +979,87 @@ LaTeX Warning: No \author given.
 [1
 
 {C:/Users/fayez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(cours_18_11.aux)
-Package rerunfilecheck Info: File `cours_18_11.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+<Capture1.PNG, id=64, 302.63063pt x 288.3272pt>
+File: Capture1.PNG Graphic file (type png)
+<use Capture1.PNG>
+Package pdftex.def Info: Capture1.PNG  used on input line 28.
+(pdftex.def)             Requested size: 226.97241pt x 216.24486pt.
+<Capture2.PNG, id=66, 283.0575pt x 244.66406pt>
+File: Capture2.PNG Graphic file (type png)
+<use Capture2.PNG>
+Package pdftex.def Info: Capture2.PNG  used on input line 40.
+(pdftex.def)             Requested size: 212.29259pt x 183.49759pt.
+<Capture3.PNG, id=67, 424.96266pt x 277.4114pt>
+File: Capture3.PNG Graphic file (type png)
+<use Capture3.PNG>
+Package pdftex.def Info: Capture3.PNG  used on input line 53.
+(pdftex.def)             Requested size: 318.7212pt x 208.05803pt.
+ [2 <./Capture1.PNG> <./Capture2.PNG>] [3 <./Capture3.PNG>]
+<Capture4.PNG, id=79, 289.83281pt x 200.62453pt>
+File: Capture4.PNG Graphic file (type png)
+<use Capture4.PNG>
+Package pdftex.def Info: Capture4.PNG  used on input line 73.
+(pdftex.def)             Requested size: 217.37407pt x 150.46802pt.
+<Capture5.PNG, id=80, 311.66437pt x 234.1247pt>
+File: Capture5.PNG Graphic file (type png)
+<use Capture5.PNG>
+Package pdftex.def Info: Capture5.PNG  used on input line 81.
+(pdftex.def)             Requested size: 233.7477pt x 175.59308pt.
+ [4 <./Capture4.PNG> <./Capture5.PNG>]
+<Capture6.PNG, id=87, 280.42265pt x 201.75375pt>
+File: Capture6.PNG Graphic file (type png)
+<use Capture6.PNG>
+Package pdftex.def Info: Capture6.PNG  used on input line 93.
+(pdftex.def)             Requested size: 210.31647pt x 151.31493pt.
+<Capture7.PNG, id=88, 265.36641pt x 192.3436pt>
+File: Capture7.PNG Graphic file (type png)
+<use Capture7.PNG>
+Package pdftex.def Info: Capture7.PNG  used on input line 107.
+(pdftex.def)             Requested size: 199.0243pt x 144.25732pt.
+ [5 <./Capture6.PNG> <./Capture7.PNG>]
+<Capture8.PNG, id=95, 292.09125pt x 205.89423pt>
+File: Capture8.PNG Graphic file (type png)
+<use Capture8.PNG>
+Package pdftex.def Info: Capture8.PNG  used on input line 117.
+(pdftex.def)             Requested size: 219.06789pt x 154.42027pt.
+<Capture9.PNG, id=96, 301.8778pt x 210.7875pt>
+File: Capture9.PNG Graphic file (type png)
+<use Capture9.PNG>
+Package pdftex.def Info: Capture9.PNG  used on input line 126.
+(pdftex.def)             Requested size: 226.40779pt x 158.09024pt.
+ [6 <./Capture8.PNG> <./Capture9.PNG>]
+<Capture10.PNG, id=103, 306.77109pt x 222.07968pt>
+File: Capture10.PNG Graphic file (type png)
+<use Capture10.PNG>
+Package pdftex.def Info: Capture10.PNG  used on input line 136.
+(pdftex.def)             Requested size: 230.07774pt x 166.55934pt.
+ [7 <./Capture10.PNG>] (cours_18_11.aux)
+
+Package rerunfilecheck Warning: File `cours_18_11.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cours_18_11.out':
+(rerunfilecheck)             Before: B4826C8B6381CE36D419DDAD04CF3F31;3140
+(rerunfilecheck)             After:  40D3395CA41E423DA7E1ED8069E32A3A;3249.
  ) 
 Here is how much of TeX's memory you used:
- 24100 strings out of 475385
- 445782 string characters out of 2776907
- 774248 words of memory out of 3000000
- 45075 multiletter control sequences out of 15000+600000
- 502066 words of font info for 51 fonts, out of 8000000 for 9000
+ 24214 strings out of 475385
+ 447484 string characters out of 2776907
+ 776258 words of memory out of 3000000
+ 45159 multiletter control sequences out of 15000+600000
+ 510921 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,6n,104p,394b,448s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 100i,8n,104p,394b,479s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C
 :/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C
 :/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:
 /Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/
 Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/U
 sers/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
-Output written on cours_18_11.pdf (1 page, 112807 bytes).
+Output written on cours_18_11.pdf (7 pages, 369971 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 159 words of extra memory for PDF output out of 10000 (max. 10000000)
 
