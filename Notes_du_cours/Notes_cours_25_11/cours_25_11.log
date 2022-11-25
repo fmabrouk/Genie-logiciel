@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  25 NOV 2022 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  25 NOV 2022 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -978,34 +978,183 @@ LaTeX Warning: No \author given.
 
 [1
 
-{C:/Users/fayez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-(cours_25_11.aux)
+{C:/Users/fayez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<Capture1.PNG, id=116, 186.32109pt x 127.22531pt>
+File: Capture1.PNG Graphic file (type png)
+<use Capture1.PNG>
+Package pdftex.def Info: Capture1.PNG  used on input line 63.
+(pdftex.def)             Requested size: 139.74046pt x 95.41873pt.
+ [2 <./Capture1.PNG>]
+<Capture2.PNG, id=123, 189.33234pt x 134.37703pt>
+File: Capture2.PNG Graphic file (type png)
+<use Capture2.PNG>
+Package pdftex.def Info: Capture2.PNG  used on input line 81.
+(pdftex.def)             Requested size: 141.99889pt x 100.78252pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 91.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 91.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 91.
 
-Package rerunfilecheck Warning: File `cours_25_11.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+Overfull \hbox (18.02359pt too wide) in paragraph at lines 91--93
+[]\OT1/lmr/m/n/12 protected (signe : $\OML/lmm/m/it/12 ]$\OT1/lmr/m/n/12 ) : l'
+^^Sel^^Sement est en-cap-sul^^Se et vi-sible dans les vi-sible dans les sp^^Sec
+ialisations
+ []
 
-Package rerunfilecheck Info: Checksums for `cours_25_11.out':
-(rerunfilecheck)             Before: BA6B5731E4C507A2D4F62F04A960C832;379
-(rerunfilecheck)             After:  76FEDF9B301F38B9B7E7AF72C598A52C;537.
+<Capture3.PNG, id=124, 190.08516pt x 129.10735pt>
+File: Capture3.PNG Graphic file (type png)
+<use Capture3.PNG>
+Package pdftex.def Info: Capture3.PNG  used on input line 102.
+(pdftex.def)             Requested size: 142.5635pt x 96.83025pt.
+[3 <./Capture2.PNG> <./Capture3.PNG>]
+<Capture4.PNG, id=133, 195.35484pt x 136.63547pt>
+File: Capture4.PNG Graphic file (type png)
+<use Capture4.PNG>
+Package pdftex.def Info: Capture4.PNG  used on input line 123.
+(pdftex.def)             Requested size: 146.51576pt x 102.47633pt.
+<Capture5_1.PNG, id=134, 325.96782pt x 225.46735pt>
+File: Capture5_1.PNG Graphic file (type png)
+<use Capture5_1.PNG>
+Package pdftex.def Info: Capture5_1.PNG  used on input line 135.
+(pdftex.def)             Requested size: 244.47525pt x 169.10008pt.
+ [4 <./Capture4.PNG> <./Capture5_1.PNG>]
+<Capture5.PNG, id=141, 187.82672pt x 129.48375pt>
+File: Capture5.PNG Graphic file (type png)
+<use Capture5.PNG>
+Package pdftex.def Info: Capture5.PNG  used on input line 144.
+(pdftex.def)             Requested size: 140.86967pt x 97.11255pt.
+
+Overfull \hbox (12.00742pt too wide) in paragraph at lines 152--153
+[]\OT1/lmr/m/n/12 Un mo-di-fi-ca-teur peut ^etre uti-lis^^Se (il est fa-cul-ta-
+tif) pour don-ner des in-for-ma-tions suppl^^Sementaires
+ []
+
+<Capture6.PNG, id=142, 293.22047pt x 109.53423pt>
+File: Capture6.PNG Graphic file (type png)
+<use Capture6.PNG>
+Package pdftex.def Info: Capture6.PNG  used on input line 168.
+(pdftex.def)             Requested size: 219.9148pt x 82.15045pt.
+[5 <./Capture5.PNG> <./Capture6.PNG>]
+Overfull \hbox (41.62599pt too wide) in paragraph at lines 187--189
+\OT1/lmr/bx/n/12 name (di-rec-tion na-me-Pa-ram :type[inf..sup]=Defaultmodifier
+s, ...) : re-turn-Type[inf..sup] 
+ []
+
+<Capture7.PNG, id=149, 187.45032pt x 144.91641pt>
+File: Capture7.PNG Graphic file (type png)
+<use Capture7.PNG>
+Package pdftex.def Info: Capture7.PNG  used on input line 201.
+(pdftex.def)             Requested size: 140.58737pt x 108.68703pt.
+[6 <./Capture7.PNG>]
+<Capture8.PNG, id=155, 194.97844pt x 154.32657pt>
+File: Capture8.PNG Graphic file (type png)
+<use Capture8.PNG>
+Package pdftex.def Info: Capture8.PNG  used on input line 222.
+(pdftex.def)             Requested size: 146.23346pt x 115.74463pt.
+<Capture9.PNG, id=156, 571.7611pt x 106.52296pt>
+File: Capture9.PNG Graphic file (type png)
+<use Capture9.PNG>
+Package pdftex.def Info: Capture9.PNG  used on input line 234.
+(pdftex.def)             Requested size: 428.81976pt x 79.89201pt.
+<Capture10.PNG, id=157, 363.98485pt x 97.86563pt>
+File: Capture10.PNG Graphic file (type png)
+<use Capture10.PNG>
+Package pdftex.def Info: Capture10.PNG  used on input line 241.
+(pdftex.def)             Requested size: 272.98796pt x 73.39902pt.
+ [7 <./Capture8.PNG> <./Capture9.PNG> <./Capture10.PNG>]
+<Capture11.PNG, id=166, 288.3272pt x 189.70876pt>
+File: Capture11.PNG Graphic file (type png)
+<use Capture11.PNG>
+Package pdftex.def Info: Capture11.PNG  used on input line 252.
+(pdftex.def)             Requested size: 216.24486pt x 142.2812pt.
+<Capture12.PNG, id=167, 385.8164pt x 123.83766pt>
+File: Capture12.PNG Graphic file (type png)
+<use Capture12.PNG>
+Package pdftex.def Info: Capture12.PNG  used on input line 258.
+(pdftex.def)             Requested size: 289.36157pt x 92.878pt.
+<Capture13.PNG, id=168, 364.73766pt x 96.36pt>
+File: Capture13.PNG Graphic file (type png)
+<use Capture13.PNG>
+Package pdftex.def Info: Capture13.PNG  used on input line 273.
+(pdftex.def)             Requested size: 273.55257pt x 72.2698pt.
+
+[8 <./Capture11.PNG> <./Capture12.PNG> <./Capture13.PNG>]
+<Capture14.PNG, id=176, 313.9228pt x 98.99484pt>
+File: Capture14.PNG Graphic file (type png)
+<use Capture14.PNG>
+Package pdftex.def Info: Capture14.PNG  used on input line 299.
+(pdftex.def)             Requested size: 235.44151pt x 74.24594pt.
+<Capture15.PNG, id=177, 284.56313pt x 228.10219pt>
+File: Capture15.PNG Graphic file (type png)
+<use Capture15.PNG>
+Package pdftex.def Info: Capture15.PNG  used on input line 306.
+(pdftex.def)             Requested size: 213.42181pt x 171.0762pt.
+ [9 <./Capture14.PNG> <./Capture15.PNG>]
+<Capture16.PNG, id=184, 332.36671pt x 120.8264pt>
+File: Capture16.PNG Graphic file (type png)
+<use Capture16.PNG>
+Package pdftex.def Info: Capture16.PNG  used on input line 318.
+(pdftex.def)             Requested size: 249.27443pt x 90.61957pt.
+<Capture17.PNG, id=185, 380.17032pt x 107.27579pt>
+File: Capture17.PNG Graphic file (type png)
+<use Capture17.PNG>
+Package pdftex.def Info: Capture17.PNG  used on input line 332.
+(pdftex.def)             Requested size: 285.12703pt x 80.45663pt.
+<Capture18.PNG, id=186, 397.1086pt x 130.98938pt>
+File: Capture18.PNG Graphic file (type png)
+<use Capture18.PNG>
+Package pdftex.def Info: Capture18.PNG  used on input line 346.
+(pdftex.def)             Requested size: 297.8307pt x 98.24178pt.
+<Capture19.PNG, id=187, 229.60782pt x 156.96141pt>
+File: Capture19.PNG Graphic file (type png)
+<use Capture19.PNG>
+Package pdftex.def Info: Capture19.PNG  used on input line 359.
+(pdftex.def)             Requested size: 172.20543pt x 117.72075pt.
+ [10 <./Capture16.PNG> <./Capture17.PNG> <./Capture18.PNG>]
+<Capture20.PNG, id=195, 118.94438pt x 27.10126pt>
+File: Capture20.PNG Graphic file (type png)
+<use Capture20.PNG>
+Package pdftex.def Info: Capture20.PNG  used on input line 371.
+(pdftex.def)             Requested size: 89.20805pt x 20.32588pt.
+
+[11 <./Capture19.PNG> <./Capture20.PNG>]
+<Capture21.PNG, id=202, 323.70938pt x 108.0286pt>
+File: Capture21.PNG Graphic file (type png)
+<use Capture21.PNG>
+Package pdftex.def Info: Capture21.PNG  used on input line 389.
+(pdftex.def)             Requested size: 242.78143pt x 81.02122pt.
+<Capture22.PNG, id=203, 125.34328pt x 264.23718pt>
+File: Capture22.PNG Graphic file (type png)
+<use Capture22.PNG>
+Package pdftex.def Info: Capture22.PNG  used on input line 416.
+(pdftex.def)             Requested size: 94.00722pt x 198.17738pt.
+ [12 <./Capture21.PNG> <./Capture22.PNG>] (cours_25_11.aux)
+Package rerunfilecheck Info: File `cours_25_11.out' has not changed.
+(rerunfilecheck)             Checksum: 428F73E781ADD8F690F2C37876A4D705;4271.
  ) 
 Here is how much of TeX's memory you used:
- 24121 strings out of 475385
- 446001 string characters out of 2776907
- 781256 words of memory out of 3000000
- 45092 multiletter control sequences out of 15000+600000
- 510921 words of font info for 54 fonts, out of 8000000 for 9000
+ 24367 strings out of 475385
+ 449854 string characters out of 2776907
+ 782260 words of memory out of 3000000
+ 45276 multiletter control sequences out of 15000+600000
+ 522955 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,6n,104p,394b,450s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C
+ 100i,8n,104p,394b,655s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.en
+c}{C:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.en
+c}{C:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C
 :/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C
+:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C
 :/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:
 /Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/
 Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/U
-sers/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
-Output written on cours_25_11.pdf (2 pages, 129482 bytes).
+sers/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/U
+sers/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on cours_25_11.pdf (12 pages, 1015990 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 29 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 255 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 328 words of extra memory for PDF output out of 10000 (max. 10000000)
 
