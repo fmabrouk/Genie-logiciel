@@ -1,0 +1,60 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{amsmath,amsthm,amsfonts,amssymb}
+\usepackage{lmodern}
+\usepackage[top=2.4cm,bottom=2.4cm,left=2cm,right=2cm]{geometry}
+\usepackage{hyperref}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{tikz}
+
+%\date{}
+\title{{\bf  Génie logiciel} \\
+	Notes du cours de 25/11  \\
+	{\small L3 Informatique appliquée 2022-2023} \\
+	{\it \small MABROUK Fayez}}
+\begin{document}
+	\maketitle
+	\newpage
+	\section{UML pour modéliser la structure}
+	\subsection{Découvrir des objets}
+	\begin{itemize}
+		\item[* ] Les objets peuvent être représentés à différentes granularités.
+		\item[* ] Il est important de choisir la granularité appropriée à l'objectif du diagramme:
+		\begin{itemize}
+			\item[* ] Diagrammes de cas d'utilisation : diagramme de haut niveau destiné à la discussion : objets à faible granularité.
+			\item[* ] Diagrammes de classes réalisés pour la conception du programme : objets à granularité élevée.
+		\end{itemize}
+	\item[* ] Exemple : un ordinateur portable peut être vu comme.. :
+	\begin{itemize}
+		\item[* ] un... objet ordinateur portable (faible granularité).
+		\item[* ] la composition d'un châssis, trackpad, clavier, écran, carte mère, CPU, RAM, ...
+		(granularité élevée).
+	\end{itemize}
+\item[* ] Il est possible de découvrir des objets par :
+\begin{itemize}
+	\item[* ] dynamique : en regardant quel objet doit recevoir le message.
+	\item[* ] données : en analysant la structure de l'objet.
+	
+\end{itemize}
+\item[* ] Exemple : on peut trouver des objets dans un ordinateur portable :
+\begin{itemize}
+	\item[* ] dynamiquement : Je veux exécuter un programme : d'abord, je déplace mon curseur avec le trackpad jusqu'à la barre de recherche ; ensuite, je tape le nom du programme.
+	la barre de recherche ; ensuite je tape le nom du programme avec le clavier ; puis le CPU
+	exécute le programme...
+	\item[* ] à travers des données : quand je regarde les spécifications de mon ordinateur portable, je peux voir qu'il a un intel i7
+	avec 16Go de RAM, un clavier AZERTY, ...
+\end{itemize}
+	\end{itemize}
+\subsection{Types de diagrammes}
+\begin{itemize}
+	\item[* ]  Diagrammes de structure:
+	\begin{itemize}
+		\item[* ] \textcolor{red}{Diagramme de classes, diagramme d'objets,} diagramme de composants, diagramme de structure composite,
+		Diagramme de paquetage et Diagramme de déploiement
+	\end{itemize}
+\end{itemize}
+\end{document}
