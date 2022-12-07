@@ -27,7 +27,7 @@
 	Pour chaque cas d’utilisation, vous préciserez l’exigence fonctionnelle à laquelle il répond ; les
 	acteurs, vos choix de modélisation éventuels, et un glossaire si nécessaire.\\
 	\\
-	Pour chaque cas d’utilisation développé, proposez un diagramme de séquence montrant
+	Pour chaque cas d’utilisation développé, proposez un diagramme de séquence montrant\\
 	l’agencement des interactions.\\
 	\\
 	En plus de ces diagrammes, vous montrerez (explicitement dans votre rapport) quels objets ont été
@@ -50,16 +50,16 @@
 	Les exigences fonctionnelles (TD \no 3):\\
 	\begin{itemize}
 		\item[* ] Créer un trajet personnalisable grâce à une interface avec ou sans l’intervention de \\l’utilisateur.
-		\item[* ] Ajouter des lieux favoris et de les supprimer.
-		\item[* ] Partager les balades de l’utilisateur avec d’autres utilisateurs sur une page communautaire.
-		\item[* ] Sauvegarder les trajets d’un utilisateur.
+		\item[\colorbox{red}{\textbf{*}} ] Ajouter des lieux favoris et de les supprimer.
+		\item[\colorbox{red}{\textbf{*}} ] Partager les balades de l’utilisateur avec d’autres utilisateurs sur une page communautaire.
+		\item[\colorbox{red}{\textbf{*}}] Sauvegarder les trajets d’un utilisateur.
 		\item[* ] Retrouver les points d’intérêt de la ville de Paris à l’aide d’une base de données.
-		\item[* ] Gérer les comptes, de la création, l’identification à l’oubli de ses derniers.
+		\item[\colorbox{red}{\textbf{*}}]  Gérer les comptes, de la création, l’identification à l’oubli de ses derniers.
 		\item[* ] Interagir avec différents outils sur la carte avec : une description des outils et des lieux populaires,des photos, un outil Zoom+/- et des icônes spécifiques pour les attractions populaires de la ville de Paris.
-		\item[* ] Afficher les chemins les plus optimaux avec une api google ou avec un algorithme de calcul de chemin.
+		\item[\colorbox{red}{\textbf{*}}] Afficher les chemins les plus optimaux avec une api google ou avec un algorithme de calcul de chemin.
 		\item[* ] Demander à l’utilisateur d’activer la géolocalisation et de traiter ses données.
 		\item[* ] Estimer l’affluence en temps réel.
-		\item[* ] Proposer des lieux en fonction de l’affinité de l’utilisateur.
+		\item[\colorbox{red}{\textbf{*}}] Proposer des lieux en fonction de l’affinité de l’utilisateur.
 		\item[* ] Fonctionner en ligne et hors ligne (avec moins de 
 		fonctionnalités).
 		
@@ -72,11 +72,15 @@
 
 \begin{itemize}
 	\item[* ]  Partager les balades de l’utilisateur avec d’autres utilisateurs sur une page communautaire.
+	
+	\begin{itemize}
+		\item[(1)] \textbf{Diagramme cas d'utilisation:}
 		\begin{figure}[!hbtp]
 			\centering
 			\includegraphics[scale=0.65]{Capture1_s.PNG}
 			%\caption{Légende de l'image}
 		\end{figure}
+	\item[(2)] \textbf{Diagramme de séquence:}
 		\begin{figure}[!hbtp]
 		\centering
 		\includegraphics[scale=0.5]{Capture1.PNG}
@@ -87,13 +91,17 @@
 	L'objet interface représente toute la couche avec laquelle interagit l'utilisateur directement, l'objet serveur communauté est apparu pour modéliser toutes les interactions entre les utilisateurs sur le net. Et l'API Carte représente l'API elle-même dans le monde réel.
 	
 \end{itemize}
+\end{itemize}
 \item[* ]  Afficher les chemins les plus optimaux avec une api google ou avec un algorithme de calcul de chemin.
+	\begin{itemize}
+	\item[(1)] \textbf{Diagramme cas d'utilisation:}
 %\newpage
 \begin{figure}[!hbtp]
 	\centering
 	\includegraphics[scale=0.65]{Capture2_s.PNG}
 	%\caption{Légende de l'image}
 \end{figure}
+\item[(2)] \textbf{Diagramme de séquence:}
 \begin{figure}[!hbtp]
 	\centering
 	\includegraphics[scale=0.65]{Capture2.PNG}
@@ -105,7 +113,8 @@
 	
 \end{itemize}
 \end{itemize}
-\newpage
+\end{itemize}
+%\newpage
 \begin{itemize}
 	\item[* ] Ajouter des lieux favoris et de les supprimer.
 		\begin{itemize}

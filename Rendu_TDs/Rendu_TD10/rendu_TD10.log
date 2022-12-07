@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  7 DEC 2022 00:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  7 DEC 2022 12:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Rendu_TD09.tex
-(Rendu_TD09.tex
+**./rendu_TD10.tex
+(rendu_TD10.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28>
 (C:\Users\fayez\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -837,8 +837,8 @@ tex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count335
 \l__pdf_internal_box=\box112
-) (Rendu_TD09.aux)
-\openout1 = `Rendu_TD09.aux'.
+) (rendu_TD10.aux)
+\openout1 = `rendu_TD10.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
@@ -907,9 +907,9 @@ Package french.ldf Warning: OT1 encoding should not be used for French.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 19.
-(Rendu_TD09.out) (Rendu_TD09.out)
+(rendu_TD10.out) (rendu_TD10.out)
 \@outlinefile=\write4
-\openout4 = `Rendu_TD09.out'.
+\openout4 = `rendu_TD10.out'.
 
 \c@lstlisting=\count336
 
@@ -976,164 +976,44 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {C:/Users/fayez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 23--52
+<Capture1.png, id=21, 532.99126pt x 516.27881pt>
+File: Capture1.png Graphic file (type png)
+<use Capture1.png>
+Package pdftex.def Info: Capture1.png  used on input line 28.
+(pdftex.def)             Requested size: 399.74246pt x 387.20815pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--47
 
  []
 
+[2 <./Capture1.png>] [3] (rendu_TD10.aux)
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--52
+Package rerunfilecheck Warning: File `rendu_TD10.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--52
-
- []
-
-[2]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 70.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 70.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 70.
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
-
- []
-
-<Capture1_s.PNG, id=26, 785.93625pt x 325.215pt>
-File: Capture1_s.PNG Graphic file (type png)
-<use Capture1_s.PNG>
-Package pdftex.def Info: Capture1_s.PNG  used on input line 80.
-(pdftex.def)             Requested size: 510.85251pt x 211.38724pt.
-
-Overfull \hbox (10.36852pt too wide) in paragraph at lines 80--82
- [][] 
- []
-
-<Capture1.PNG, id=27, 849.1725pt x 569.12625pt>
-File: Capture1.PNG Graphic file (type png)
-<use Capture1.PNG>
-Package pdftex.def Info: Capture1.PNG  used on input line 86.
-(pdftex.def)             Requested size: 424.5852pt x 284.56242pt.
-[3 <./Capture1_s.PNG> <./Capture1.PNG>]
-<Capture2_s.PNG, id=34, 785.93625pt x 325.215pt>
-File: Capture2_s.PNG Graphic file (type png)
-<use Capture2_s.PNG>
-Package pdftex.def Info: Capture2_s.PNG  used on input line 101.
-(pdftex.def)             Requested size: 510.85251pt x 211.38724pt.
-
-Overfull \hbox (10.36852pt too wide) in paragraph at lines 101--103
- [][] 
- []
-
-<Capture2.PNG, id=35, 849.1725pt x 343.2825pt>
-File: Capture2.PNG Graphic file (type png)
-<use Capture2.PNG>
-Package pdftex.def Info: Capture2.PNG  used on input line 107.
-(pdftex.def)             Requested size: 551.95558pt x 223.13097pt.
-
-Overfull \hbox (51.47159pt too wide) in paragraph at lines 107--109
- [][] 
- []
-
-[4 <./Capture2_s.PNG> <./Capture2.PNG>]
-<Capture3_s.PNG, id=42, 417.05812pt x 213.79875pt>
-File: Capture3_s.PNG Graphic file (type png)
-<use Capture3_s.PNG>
-Package pdftex.def Info: Capture3_s.PNG  used on input line 124.
-(pdftex.def)             Requested size: 312.79282pt x 160.34866pt.
-<Capture3_2.PNG, id=44, 467.87297pt x 448.29985pt>
-File: Capture3_2.PNG Graphic file (type png)
-<use Capture3_2.PNG>
-Package pdftex.def Info: Capture3_2.PNG  used on input line 130.
-(pdftex.def)             Requested size: 350.90387pt x 336.22406pt.
- [5 <./Capture3_s.PNG> <./Capture3_2.PNG>]
-<Capture4.PNG, id=51, 418.94016pt x 208.52907pt>
-File: Capture4.PNG Graphic file (type png)
-<use Capture4.PNG>
-Package pdftex.def Info: Capture4.PNG  used on input line 142.
-(pdftex.def)             Requested size: 314.20433pt x 156.39641pt.
-<image1.jpg, id=52, 453.04256pt x 578.16pt>
-File: image1.jpg Graphic file (type jpg)
-<use image1.jpg>
-Package pdftex.def Info: image1.jpg  used on input line 148.
-(pdftex.def)             Requested size: 294.47417pt x 375.79955pt.
- [6 <./Capture4.PNG> <./image1.jpg>]
-<image2.png, id=58, 453.19313pt x 189.70876pt>
-File: image2.png Graphic file (type png)
-<use image2.png>
-Package pdftex.def Info: image2.png  used on input line 160.
-(pdftex.def)             Requested size: 339.89401pt x 142.2812pt.
-<image3.png, id=59, 453.19313pt x 395.22656pt>
-File: image3.png Graphic file (type png)
-<use image3.png>
-Package pdftex.def Info: image3.png  used on input line 172.
-(pdftex.def)             Requested size: 339.89401pt x 296.41919pt.
- [7 <./image2.png> <./image3.png>]
-<image4.png, id=68, 453.19313pt x 145.29282pt>
-File: image4.png Graphic file (type png)
-<use image4.png>
-Package pdftex.def Info: image4.png  used on input line 185.
-(pdftex.def)             Requested size: 339.89401pt x 108.96933pt.
-<image5.png, id=69, 420.82219pt x 316.18124pt>
-File: image5.png Graphic file (type png)
-<use image5.png>
-Package pdftex.def Info: image5.png  used on input line 196.
-(pdftex.def)             Requested size: 315.61586pt x 237.13535pt.
-
-[8 <./image4.png> <./image5.png>] (Rendu_TD09.aux)
-Package rerunfilecheck Info: File `Rendu_TD09.out' has not changed.
-(rerunfilecheck)             Checksum: 0C255F24F15954CBC6B361BE36E1E56B;129.
+Package rerunfilecheck Info: Checksums for `rendu_TD10.out':
+(rerunfilecheck)             Before: 76380CF203D788D8F89F5FC13417AA74;179
+(rerunfilecheck)             After:  949EAE37B7F4DB0111448A4C35D87237;352.
  ) 
 Here is how much of TeX's memory you used:
- 24244 strings out of 475385
- 447670 string characters out of 2776907
- 783243 words of memory out of 3000000
- 45188 multiletter control sequences out of 15000+600000
- 530121 words of font info for 71 fonts, out of 8000000 for 9000
+ 24132 strings out of 475385
+ 446072 string characters out of 2776907
+ 777246 words of memory out of 3000000
+ 45099 multiletter control sequences out of 15000+600000
+ 515145 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,8n,104p,400b,740s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.en
-c}{C:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C
+ 100i,8n,104p,400b,568s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C
 :/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C
 :/Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:
 /Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/
 Users/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/U
-sers/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Use
-rs/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Use
-rs/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri7.pfb><C:/User
-s/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/User
-s/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
-Output written on Rendu_TD09.pdf (8 pages, 1001095 bytes).
+sers/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/U
+sers/fayez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri7.pfb>
+Output written on rendu_TD10.pdf (3 pages, 168208 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
